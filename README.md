@@ -1,2 +1,2 @@
 # UnirCadenas.cpp
-Programa para concatenar cadenas en C++
+Programa para *concatenar* cadenas en C++
